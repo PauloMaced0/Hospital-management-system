@@ -6,7 +6,7 @@ The project focuses on automating and streamlining the billing and prescription 
 Key components include patient management, appointment scheduling, billing, and prescription management.
 
 ### DER
-![DER, Entity relation diagram](/Docs/DER.png)
+![DER, Entity relation diagram](/Docs/ER.png)
 
 ## Key Features
 
