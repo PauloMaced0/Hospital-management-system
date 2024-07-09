@@ -15,7 +15,7 @@ Key components include patient management, appointment scheduling, billing, and 
 - **Billing System**: Calculates fees, generates bills, and updates payment status.
 - **Prescription Management**: Manages and records patient prescriptions.
 
-<u> Just some of this features will be presented in the next section <u>
+**Just some of this features will be presented in the next section**
 
 ## Procedures
 
